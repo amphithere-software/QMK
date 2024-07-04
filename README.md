@@ -1,1 +1,1 @@
-# QMK
+# QMK keyboard firmware for small keyboard.
